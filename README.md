@@ -1,4 +1,7 @@
+
 # Tic-Tac-Toe Game
+
+**Note:** This project was developed as a class project for the course "Design Patterns" (original: "Σχεδιαστικά Πρότυπα").
 
 A Java console Tic-Tac-Toe game where a human player competes against an AI opponent, demonstrating the Strategy and Factory design patterns.
 
