@@ -1,0 +1,47 @@
+# Maven build
+/target/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Maven wrapper - ignore other wrapper files but keep the jar and properties
+/.mvn/wrapper/*
+!/.mvn/wrapper/maven-wrapper.jar
+!/.mvn/wrapper/maven-wrapper.properties
+
+# Generated sources and build metadata
+/generated-sources/
+/dependency-reduced-pom.xml
+
+# Logs and temp
+*.log
+*.tmp
+hs_err_pid*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# IDEA workspace (if present)
+workspace.xml
